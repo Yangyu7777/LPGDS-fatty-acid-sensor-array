@@ -1,0 +1,42 @@
+[
+  {
+    "lda_sheet": "不饱和度LDA",
+    "bar_sheet": "不饱和度柱状图",
+    "key": "unsaturation",
+    "lda_title": "Unsaturation discrimination",
+    "bar_title": "Unsaturation response profile",
+    "bar_xlabel": "Fatty acid"
+  },
+  {
+    "lda_sheet": "不同链长LDA",
+    "bar_sheet": "不同链长柱状图",
+    "key": "chain_length",
+    "lda_title": "Chain-length discrimination",
+    "bar_title": "Chain-length response profile",
+    "bar_xlabel": "Fatty acid"
+  },
+  {
+    "lda_sheet": "不同比例LDA",
+    "bar_sheet": "不同比例柱状图",
+    "key": "mixture_ratio",
+    "lda_title": "Mixture-ratio discrimination",
+    "bar_title": "Mixture-ratio response profile",
+    "bar_xlabel": "C18:C18-1 ratio"
+  },
+  {
+    "lda_sheet": "C18浓度LDA",
+    "bar_sheet": "C18浓度柱状图",
+    "key": "C18_concentration",
+    "lda_title": "C18 concentration discrimination",
+    "bar_title": "C18 concentration response profile",
+    "bar_xlabel": "Concentration (μM)"
+  },
+  {
+    "lda_sheet": "C18-2浓度LDA",
+    "bar_sheet": "C18-2浓度柱状图",
+    "key": "C18_2_concentration",
+    "lda_title": "C18:2 concentration discrimination",
+    "bar_title": "C18:2 concentration response profile",
+    "bar_xlabel": "Concentration (μM)"
+  }
+]
